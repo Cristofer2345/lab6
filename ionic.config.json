@@ -1,0 +1,7 @@
+{
+  "name": "TestPrueba ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
